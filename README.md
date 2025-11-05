@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Govind</h1>
-<h3 align="center">Maker with an interest in ML, Full-Stack and Digital Electronics</h3>
-
+<h1 align="left">Hi 👋, I'm Govind</h1>
+<h3 align="left">Maker with an interest in ML, Full-Stack and Digital Electronics</h3>
+<br>
 - 🌱 I’m currently learning **Basic Machine learning and Fullstack concepts**
 
 <h3 align="left">Languages and Tools:</h3>
