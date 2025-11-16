@@ -1,7 +1,30 @@
 <h1 align="left">Hi 👋, I'm Govind</h1>
-<h3 align="left">Maker with an interest in ML, Full-Stack and Digital Electronics</h3>
-<br>
-- 🌱 I’m currently learning Basic Machine learning and Fullstack concepts
+<h3 align="left">Maker with an interest in ML, Full-Stack Development, and Digital Electronics</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- 🌱 I’m currently learning foundational Machine Learning and Full-Stack concepts  
+- ⚙️ I’m actively building ML projects to improve my understanding  
+
+<h3 align="left">Skills</h3>
+<table><tr><td>
+  <h4>Full-Stack</h4>
+<img src="https://skillicons.dev/icons?i=react,fastapi,mongodb,javascript,html,css" />
+</td></tr></table>
+<table>
+  <tr>
+    <td valign="top">
+      <h4>AI / ML</h4>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
+    </td>
+    <td valign="top">
+      <h4>Others</h4>
+      <img src="https://skillicons.dev/icons?i=flutter,godot" />
+    </td>
+  </tr>
+</table>
+<table><tr><td>
+  <h4>Tools</h4>
+<img src="https://skillicons.dev/icons?i=linux,git,figma" />
+</td></tr></table>
+<br/>
+
+> Outside software, I’ve also worked with Arduino, STM32, and Proteus.
