@@ -1,30 +1,43 @@
-<h1 align="left">Hi 👋, I'm Govind</h1>
-<h3 align="left">Maker with an interest in ML, Full-Stack Development, and Digital Electronics</h3>
+<div align="center">
 
-- 🌱 I’m currently learning foundational Machine Learning and Full-Stack concepts  
-- ⚙️ I’m actively building ML projects to improve my understanding  
+# Hi there, I'm Govind 👋
 
-<h3 align="left">Skills</h3>
-<table><tr><td>
-  <h4>Full-Stack</h4>
-<img src="https://skillicons.dev/icons?i=react,fastapi,mongodb,javascript,html,css" />
-</td></tr></table>
-<table>
-  <tr>
-    <td valign="top">
-      <h4>AI / ML</h4>
-      <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
-    </td>
-    <td valign="top">
-      <h4>Others</h4>
-      <img src="https://skillicons.dev/icons?i=flutter,godot" />
-    </td>
-  </tr>
-</table>
-<table><tr><td>
-  <h4>Tools</h4>
-<img src="https://skillicons.dev/icons?i=linux,git,figma" />
-</td></tr></table>
+### Exploring ML and Full-stack tech
+
 <br/>
 
-> Outside software, I’ve also worked with Arduino, STM32, and Proteus.
+</div>
+
+---
+
+### 🔭 What I'm Working On
+- 🚀 **Payload with EKF** at my Model Rocketry Club.
+- 💻 **KhagaLink:** A cross-platform **React + Tauri** rocketry flight data analyzer.
+- 🧠 **Learning:** Exploring foundational ML with **PyTorch** and solving the **Neetcode 150**.
+
+<br/>
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,c,rust,js,ts" /> |
+| **Full Stack** | <img src="https://skillicons.dev/icons?i=react,fastapi,mongodb,tauri,flutter" /> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv" /> |
+| **Embedded / HW** | <img src="https://skillicons.dev/icons?i=arduino," /> *(ESP32, Digital Electronics)* |
+| **Tools** | <img src="https://skillicons.dev/icons?i=linux,git,figma,godot" /> |
+
+</div>
+
+<br/>
+
+### ⚡ Recent Highlights
+* **Digital Electronics:** Built a functional **4-bit computer** from scratch using TTL ICs.
+* **Game Dev:** Member at Glitch.
+* **Hackathons:** Selected for Round 1 of the **Allianz Tech Championship, Round 2 for MumbaiHacks 2025**.
+
+<br/>
+
+
