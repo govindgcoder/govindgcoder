@@ -11,7 +11,7 @@
 ---
 
 ### 🔭 What I'm Working On
-- 🚀 **Payload with EKF** at my Model Rocketry Club.
+- 🚀 **EKF implemetations** as team projects.
 - 💻 **KhagaLink:** A cross-platform **React + Tauri** rocketry flight data analyzer.
 - 🧠 **Learning:** Exploring foundational ML with **PyTorch** and solving the **Neetcode 150**.
 
@@ -34,9 +34,9 @@
 <br/>
 
 ### ⚡ Recent Highlights
-* **Digital Electronics:** Built a functional **4-bit computer** from scratch using TTL ICs.
-* **Game Dev:** Member at Glitch.
-* **Hackathons:** Selected for Round 1 of the **Allianz Tech Championship, Round 2 for MumbaiHacks 2025**.
+* **Digital Electronics:** Developed Payload with single dimension EKF, Built a functional **4-bit computer** from scratch using TTL ICs.
+* **Game Dev:** Member at GlitchCET.
+* **Hackathons:** Winner of GGJ`26 Kochi, Selected for final Round of the **Allianz Tech Championship, Round 2 for MumbaiHacks 2025**.
 
 <br/>
 
