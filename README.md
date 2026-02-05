@@ -36,7 +36,7 @@
 ### ⚡ Recent Highlights
 * **Digital Electronics:** Developed Payload with single dimension EKF, Built a functional **4-bit computer** from scratch using TTL ICs.
 * **Game Dev:** Member at GlitchCET.
-* **Hackathons:** Winner of GGJ`26 Kochi, Selected for final Round of the **Allianz Tech Championship, Round 2 for MumbaiHacks 2025**.
+* **Competitions:** Allianz tech championship 2025 Winner, Winner of GGJ`26 Kochi, Round 2 for MumbaiHacks 2025**.
 
 <br/>
 
