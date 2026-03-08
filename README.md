@@ -1,43 +1,43 @@
 <div align="center">
 
-# Hi there, I'm Govind 👋
+# Govind G.
+**BTech ECE @ College of Engineering Trivandrum (CET)**
+*Building Autonomous Systems, Embedded AI, and Full-Stack Tools*
 
-### Exploring ML and Full-stack tech
-
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/iamgovindg)
 
 </div>
 
 ---
 
-### 🔭 What I'm Working On
-- 🚀 **EKF implemetations** as team projects.
-- 💻 **KhagaLink:** A cross-platform **React + Tauri** rocketry flight data analyzer.
-- 🧠 **Learning:** Exploring foundational ML with **PyTorch** and solving the **Neetcode 150**.
+### 🚀 Engineering Focus & Current Work
 
-<br/>
+I specialize in bridging the gap between hardware and software, with a strong focus on embedded systems, control engineering, and applied machine learning. 
 
-### 🛠️ Tech Stack & Tools
+* 🛰️ **VeloCET Model Rocketry:** Serving as a Core Payload and Executive Commitee member. Currently developed the electronics payload for the SD1000 project (STM32 for sensor fusion, ESP32 for telemetry).
+* * 💻 **Software & Tooling:** Shipping **KhagaLink**, a mission control and flight data analyzer built with React and Tauri.
+* 🧠 **Algorithms:** Regularly sharpening problem-solving skills via Data Structures & Algorithms.
+
+---
+
+### 🏆 Key Projects & Highlights
+
+* **DhalAI (Allianz Tech Championship 2026 - Winner):** Designed a financial AI agent system designed to serve rural India.
+* **Kolam (Global Game Jam Kochi 2026 - Winner):** Lead development for the title that won "Best Game" and "Best Fun Game" using Godot.
+* * **4-Bit Computer:** Designed and built a functional 4-bit computer entirely from scratch using discrete TTL logic gates. 
+
+---
+
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,c,rust,js,ts" /> |
-| **Full Stack** | <img src="https://skillicons.dev/icons?i=react,fastapi,mongodb,tauri,flutter" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,c,rust,js,ts,java" /> |
+| **Embedded / Control** | <img src="https://skillicons.dev/icons?i=arduino" /> *STM32, ESP32, Sensor Fusion, EKF, Digital Logic* |
+| **Full Stack / Apps** | <img src="https://skillicons.dev/icons?i=react,fastapi,mongodb,tauri" /> |
 | **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv" /> |
-| **Embedded / HW** | <img src="https://skillicons.dev/icons?i=arduino," /> *(ESP32, Digital Electronics)* |
-| **Tools** | <img src="https://skillicons.dev/icons?i=linux,git,figma,godot" /> |
+| **Tools & Game Dev** | <img src="https://skillicons.dev/icons?i=linux,git,godot,figma" /> |
 
 </div>
-
-<br/>
-
-### ⚡ Recent Highlights
-* **Digital Electronics:** Developed Payload with single dimension EKF, Built a functional **4-bit computer** from scratch using TTL ICs.
-* **Game Dev:** Member at GlitchCET.
-* **Competitions:** Allianz tech championship 2025 Winner, Winner of GGJ`26 Kochi, Round 2 for MumbaiHacks 2025**.
-
-<br/>
-
-
