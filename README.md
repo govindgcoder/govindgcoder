@@ -1,7 +1,7 @@
 <div align="center">
 
 # Govind G.
-**BTech ECE @ College of Engineering Trivandrum (CET)**
+**BTech Electrical and Computer Engineering @ College of Engineering Trivandrum (CET)** <br>
 *Building Autonomous Systems, Embedded AI, and Full-Stack Tools*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/iamgovindg)
@@ -15,7 +15,9 @@
 I specialize in bridging the gap between hardware and software, with a strong focus on embedded systems, control engineering, and applied machine learning. 
 
 * 🛰️ **VeloCET Model Rocketry:** Serving as a Core Payload and Executive Commitee member. Currently developed the electronics payload for the SD1000 project (STM32 for sensor fusion, ESP32 for telemetry).
-* * 💻 **Software & Tooling:** Shipping **KhagaLink**, a mission control and flight data analyzer built with React and Tauri.
+* 💻 **Software & Tooling:** Member of FossCET initiative. Shipping **KhagaLink**, a mission control and flight data analyzer built with React and Tauri.
+* 🔋 **Embedded Tech:** Working on multiple embedded projects including a self balancing robot and learning about memory mapped i/o.
+* 🎮 **Game Development:** Part of GlitchCET, building creative endeavors.
 * 🧠 **Algorithms:** Regularly sharpening problem-solving skills via Data Structures & Algorithms.
 
 ---
@@ -24,7 +26,7 @@ I specialize in bridging the gap between hardware and software, with a strong fo
 
 * **DhalAI (Allianz Tech Championship 2026 - Winner):** Designed a financial AI agent system designed to serve rural India.
 * **Kolam (Global Game Jam Kochi 2026 - Winner):** Lead development for the title that won "Best Game" and "Best Fun Game" using Godot.
-* * **4-Bit Computer:** Designed and built a functional 4-bit computer entirely from scratch using discrete TTL logic gates. 
+* **4-Bit Computer:** Designed and built a functional 4-bit computer entirely from scratch using discrete TTL logic gates. 
 
 ---
 
