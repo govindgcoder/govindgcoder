@@ -6,9 +6,9 @@
 [Website](https://govindg.me) • [LinkedIn](https://linkedin.com/in/iamgovindg) 
 
 ---
-Recently, I’ve been building **arcKode**, a local-first coding assistant optimized for low-VRAM architectures.
+Recently, I’ve exploring rust and local llms.
 
-Most of my work sits at the intersection of embedded systems, and full-stack software. That usually means writing firmware for microcontrollers like the ESP32 and STM32, wiring up sensors, tuning control loops for things that move, or building the desktop tools and web interfaces needed to talk to that hardware in real time.
+Most of my work sits at the intersection of embedded systems, and full-stack software. That usually means writing software for microcontrollers like the ESP32 and STM32, designing circuits or building the desktop tools and web interfaces as solutions.
 
 ### Highlights
 
