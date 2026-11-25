@@ -6,7 +6,7 @@
 [Website](https://govindg.me) • [LinkedIn](https://linkedin.com/in/iamgovindg) 
 
 ---
-Recently, I’ve exploring rust and local llms.
+Recently, I’ve been exploring rust and local llms.
 
 Most of my work sits at the intersection of embedded systems, and full-stack software. That usually means writing software for microcontrollers like the ESP32 and STM32, designing circuits or building the desktop tools and web interfaces as solutions.
 
